@@ -1,5 +1,5 @@
 # Live Data Extracting from API using Kafka
-![Labor-Market-GDP-Prediction](/Architecture.jpeg)
+![Live Data Extracting from API using Kafka](/Architecture.jpeg)
 **Tech Stack:** Python,Kafka, AWS (Lambda, S3, Crawler, Glue, Athena)
 
 •	Stock prices are extracted in real-time using the Finhub API and streamed into Kafka. A custom Python script functions as a producer, efficiently 
